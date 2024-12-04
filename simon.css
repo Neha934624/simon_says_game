@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+}
+.container{
+   
+
+}
+.item1{
+    display: flex;
+    gap: 1rem;
+    margin: 1rem;
+    justify-content: center;
+
+}
+.item2{
+   display: flex;
+   gap: 1rem;
+   margin: 1rem;
+   justify-content: center;
+}
+.item1 button{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 1rem;
+    
+}
+.item2 button{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 1rem;
+}
+.red{
+    background-color: rgb(233, 77, 77);
+}
+.orange{
+    background-color: rgb(241, 160, 9);
+}
+.blue{
+    background-color: rgb(75, 75, 232)
+}
+.purple{
+    background-color: rgb(160, 12, 160);
+}
+.flash{
+    background-color: white;
+}
+.usrflash{
+    background-color: green;
+}
